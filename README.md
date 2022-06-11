@@ -1,10 +1,6 @@
 ## Hi, i'm @bernardoezequias. Currently CS Student at UFCG. Interested in Development (back-end).
 
-<div align="center">
-  <a href="https://github.com/bernardoezequias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&langs_count=7&theme=gruvbox"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="ezequias-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
