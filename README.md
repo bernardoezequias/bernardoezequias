@@ -1,4 +1,4 @@
-## Hi, i'm @bernardoezequias. Currently CS Student at UFCG. Interested in Development (back-end).
+## Hi, i'm @bernardoezequias.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox)
 
