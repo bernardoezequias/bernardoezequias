@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi, i'm @bernardoezequias. Currently CS Student at UFCG. Interested in Development.
 
 <div align="center">
   <a href="https://github.com/bernardoezequias">
