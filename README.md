@@ -1,4 +1,4 @@
-## Hi, i'm @bernardoezequias. Currently CS Student at UFCG. Interested in Development.
+## Hi, i'm @bernardoezequias. Currently CS Student at UFCG. Interested in Development (back-end).
 
 <div align="center">
   <a href="https://github.com/bernardoezequias">
