@@ -1,6 +1,7 @@
 ## Hi, i'm @bernardoezequias
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox)
+![Ezequias GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&theme=gruvbox)](https://github.com/bernardoezequias)
 
 <div style="display: inline_block"><br>
 <img align="center" alt="ezequias-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
