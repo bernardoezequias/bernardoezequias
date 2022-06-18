@@ -2,7 +2,7 @@
 
 ![Ezequias GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&theme=gruvbox)](https://github.com/bernardoezequias)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&theme=gruvbox&count_private=true)](https://github.com/bernardoezequias)
 
 ## Tools
 
