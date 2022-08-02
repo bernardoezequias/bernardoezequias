@@ -4,7 +4,7 @@ I'm the greatest coder in my neighborhood, maybe the only one too, but that does
 
 ![Bernardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bernardoezequias&show_icons=true&count_private=true&theme=gruvbox)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&theme=gruvbox&count_private=true)]
+[![Bernardo's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bernardoezequias&layout=compact&theme=gruvbox&count_private=true)]
 
 ## Tools
 
