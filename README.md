@@ -19,7 +19,7 @@ I'm the greatest coder in my neighborhood, maybe the only one too, but that does
           
 </div>
 
-##
+## Social
 
 <div>
 <a href = "mailto:ezequias.bernardo@ccc.ufcg.edu.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
